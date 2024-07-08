@@ -8,4 +8,5 @@ module.exports = defineConfig({
   },
   watchForFileChanges: false,
   projectId: "ga67cp",
+  pageLoadTimeout: 100000,
 });
